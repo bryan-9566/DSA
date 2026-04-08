@@ -8,4 +8,5 @@ public static void main(String[] args)
     String f=a.substring(a.length()-2);
     System.out.println(f+l);
 }
+
 }

@@ -38,7 +38,6 @@ public class patt9 {
             }
 
             System.out.println();
-
         }
     }
 }

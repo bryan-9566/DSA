@@ -10,6 +10,8 @@ public class smallest {
                 small=a[i];
             }
         }
+
+
         System.out.print(small);
     }
 }

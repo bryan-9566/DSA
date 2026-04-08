@@ -15,7 +15,6 @@ public class patt10 {
                 System.out.print("*");
             }
             System.out.println();
-
         }
     }
 }

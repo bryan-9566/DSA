@@ -13,6 +13,7 @@ public class union {
                     i++;
                     continue;
                 }
+
                 if(j>0 && b[j]==b[j-1])
                 {
                     j++;

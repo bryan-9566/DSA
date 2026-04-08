@@ -13,6 +13,7 @@ public class secondsmallest {
             }
             else if(arr[i]<ssmall && arr[i]>small)
             {
+
                 ssmall=arr[i];
             }
         }

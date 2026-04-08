@@ -11,7 +11,6 @@ public class patt2 {
                 System.out.print("*");
             }
             System.out.println();
-
         }
     }
 }

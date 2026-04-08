@@ -10,6 +10,7 @@ public class recur {
     }
     public static ArrayList<Integer> find(int[] a,int t,int index)
 {
+
     ArrayList<Integer> list=new ArrayList<>();
     if(a.length==index)
         return list;

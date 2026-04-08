@@ -13,6 +13,7 @@ public class denominations {
                 c += r;
                 n = n % a;
             }
+
         }
         System.out.println(c);
     }

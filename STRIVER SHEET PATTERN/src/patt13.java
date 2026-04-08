@@ -11,8 +11,6 @@ public class patt13 {
             {
                 System.out.print(b+" ");
                 b++;
-
-
             }
             System.out.println();
 

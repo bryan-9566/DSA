@@ -18,6 +18,7 @@ public class hours24 {
             }
         }
     }
+
     public static boolean check(String s)
     {
         boolean[] bry=new boolean[10];

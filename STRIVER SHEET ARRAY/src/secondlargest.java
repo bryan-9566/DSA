@@ -16,6 +16,7 @@ public class secondlargest {
                 slar=a[i];
             }
         }
+
         System.out.print(slar);
     }
 }

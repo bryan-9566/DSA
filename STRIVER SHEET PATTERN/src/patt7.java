@@ -18,7 +18,6 @@ public class patt7 {
             {
                 System.out.print(" ");
             }
-
             System.out.println();
 
         }

@@ -20,7 +20,6 @@ public class patt8 {
             }
 
             System.out.println();
-
         }
     }
 }

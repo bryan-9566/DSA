@@ -12,7 +12,6 @@ public class patt16 {
                 System.out.print(ch+" ");
             }
             System.out.println();
-
         }
     }
 }
