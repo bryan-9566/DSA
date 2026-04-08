@@ -33,6 +33,7 @@ public class longestsubarraypos {
         int[] a = { -1, 1, 1 };
         int k = 1;
 
+
         // Create an instance of the Solution class
         Solution solution = new Solution();
 

@@ -12,7 +12,6 @@ public class merge {
         int mid=b.length/2;
         if(b.length==1)
             return b;
-
         int[] l=mergesort(Arrays.copyOfRange(b,0,mid));
         int[] r=mergesort(Arrays.copyOfRange(b,mid,b.length));
         return merge(l,r);

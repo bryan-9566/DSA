@@ -12,6 +12,7 @@ public class patt2 {
             tri(r,c+1);
             System.out.print("*");
         }
+
         else {
             tri(r-1,0);
             System.out.println();

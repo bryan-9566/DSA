@@ -15,7 +15,6 @@ public class bubblerec {
         {
             if(b[c]>b[c+1])
             {
-
                 int temp=b[c];
                 b[c]=b[c+1];
                 b[c+1]=temp;

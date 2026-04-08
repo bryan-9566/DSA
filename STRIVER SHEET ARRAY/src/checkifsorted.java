@@ -10,7 +10,6 @@ public class checkifsorted {
         {
             if(a[i]>=a[i-1])
             {
-
             }
             else {
                 return false;
