@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BRYAN PLACEMENT.iml" filepath="$PROJECT_DIR$/.idea/BRYAN PLACEMENT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRACTICE/PRACTICE.iml" filepath="$PROJECT_DIR$/PRACTICE/PRACTICE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STRIVER SHEET ARRAY/STRIVER SHEET ARRAY.iml" filepath="$PROJECT_DIR$/STRIVER SHEET ARRAY/STRIVER SHEET ARRAY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/STRIVER SHEET PATTERN/STRIVER SHEET PATTERN.iml" filepath="$PROJECT_DIR$/STRIVER SHEET PATTERN/STRIVER SHEET PATTERN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/axcess/axcess.iml" filepath="$PROJECT_DIR$/axcess/axcess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sxiphrase training/sxiphrase training.iml" filepath="$PROJECT_DIR$/sxiphrase training/sxiphrase training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoho/zoho.iml" filepath="$PROJECT_DIR$/zoho/zoho.iml" />
+    </modules>
+  </component>
+</project>
