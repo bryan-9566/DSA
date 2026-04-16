@@ -1,5 +1,5 @@
 import java.util.*;
-public class selection {
+public class selectionmin {
 public static void main(String[] args)
 {
     int[] a={7,1,3,500,200,100,0};
