@@ -1,4 +1,4 @@
-public class longestsubarray {
+public class longestsubarraypositive {
     public static void main(String[] args)
     {
         int[] a = {10, 5, 2, 7, 1, 9};
