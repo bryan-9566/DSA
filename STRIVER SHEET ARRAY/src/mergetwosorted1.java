@@ -1,5 +1,5 @@
 import java.util.*;
-public class mergetwosorted {
+public class mergetwosorted1 {
     public static void main(String[] args)
     {
         int[] a1={1,3,5,7};
