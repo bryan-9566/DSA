@@ -3,7 +3,7 @@ public class countinversions {
     public static void main(String[] args)
     {
         int cnt=0;
-        int[] a={5,4,3,2,1};
+        int[] a={3,2,1};
         cnt=mergesort(a,0,a.length-1);
         System.out.print(Arrays.toString(a));
         System.out.println();

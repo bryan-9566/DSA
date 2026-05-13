@@ -2,7 +2,7 @@ import java.util.*;
 public class mergestriver {
     public static void main(String[] args)
     {
-        int[] a={7,1,3,300,200,100};
+        int[] a={3,2,4,1,3};
         mergesort(a,0,a.length-1);
         System.out.print(Arrays.toString(a));
     }
