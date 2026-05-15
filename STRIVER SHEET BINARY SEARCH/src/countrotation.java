@@ -1,13 +1,23 @@
 public class countrotation {
     public static void main(String[] args)
     {
-        int[] bry={3,4,5,1,2};
+        int[] bry={10,1,10,10,10};
         int in=-1;
         int min=Integer.MAX_VALUE;
         int low=0,high=bry.length-1;
         while(low<=high)
         {
             int mid=low+(high-low)/2;
+            if(bry[low]==bry[mid] && bry[mid]==bry[high])
+            {
+                if(min>bry[low])
+                {
+                    min=bry[low];
+                }
+                low++;
+                high--;
+                continue;
+            }
             if(bry[low]<=bry[mid])
             {
                 if(min>bry[low])
